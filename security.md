@@ -14,3 +14,4 @@ Security is foundational to Zolden’s development process. All core components 
 
 Please report any suspected vulnerabilities to:  
 security@zolden.foundation
+ 
