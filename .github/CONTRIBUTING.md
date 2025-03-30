@@ -10,3 +10,4 @@ Until then, you may:
 - Watch the repository for updates
 
 Please respect the development process. Zolden is not an open-source playground — it's an infrastructure protocol under continuous validation.
+ 
