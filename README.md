@@ -8,7 +8,7 @@ Enable a future where tokenized real-world assets are governed, distributed and 
 
 ## Highlights
 
-- AI-assisted onboarding & validation of real-world assets
+- AI-assisted onboarding and validation of real-world assets
 - Token lifecycle logic embedded in smart contracts
 - DePIN-aligned architecture: storage, compute, sensors
 - Cross-chain interoperability planned from day one
